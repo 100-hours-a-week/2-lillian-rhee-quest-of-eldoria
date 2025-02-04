@@ -43,17 +43,17 @@ python quest_of_eldoria.py
 
 ## 🖼️ 스크린샷  
 ### 🎭오프닝
-![오프닝](screenshots/welcome.png) 
+![오프닝](/screenshots/welcome.png) 
 
 ### 🌲챕터 별 소개
 
-![챕터 1 예시](screenshots/chapter 1.png) 
-
+![챕터 1 예시](screenshots/chapter_1.png)
 ### 🏹 전투 화면  
-![전투 화면](screenshots/fight sequence.png)  
+![전투 화면](screenshots/fight_sequence.png)  
 
 ---
 ## 📜 플로우차트
 -개발 초기 로직을 볼수있습니다.
+
 ![플로우차트](screenshots/flowchart.png)  
 ---
